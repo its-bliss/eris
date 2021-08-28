@@ -1,5 +1,5 @@
 {
-  "name": "eris",
+  "name": "@artemisbot.net/eris",
   "version": "0.16.0-dev",
   "description": "A NodeJS Discord library",
   "main": "./index.js",
